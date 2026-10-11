@@ -1,0 +1,18 @@
+# output images
+out/
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# secrets — never commit API keys
+.env
+*.env
+secrets.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
